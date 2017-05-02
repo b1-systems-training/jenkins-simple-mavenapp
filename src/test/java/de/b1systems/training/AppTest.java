@@ -1,4 +1,4 @@
-package de.b1-systems.training;
+package de.b1systems.training;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
